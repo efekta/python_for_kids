@@ -1,0 +1,51 @@
+import turtle
+
+
+# Прямоугольник
+# t = turtle.Pen()
+# t.forward(100)
+# t.left(90)
+# t.forward(50)
+# t.left(90)
+# t.forward(100)
+# t.left(90)
+# t.forward(50)
+# t.left(90)
+# t.reset()
+
+
+# Треугольник
+# t = turtle.Pen()
+# t.forward(200)
+# t.left(120)
+# t.forward(200)
+# t.left(120)
+# t.forward(200)
+# t.reset()
+
+# Рамка без углов
+# t = turtle.Pen()
+t.forward(100)
+t.up()
+t.forward(30)
+t.left(90)
+t.forward(30)
+t.down()
+t.forward(100)
+t.up()
+t.forward(30)
+t.left(90)
+t.forward(30)
+t.down()
+t.forward(100)
+t.up()
+t.forward(30)
+t.left(90)
+t.forward(30)
+t.down()
+t.forward(100)
+t.up()
+t.forward(30)
+t.left(90)
+t.forward(30)
+t.down()
